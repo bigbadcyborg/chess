@@ -33,7 +33,9 @@ public class Piece {
 
 	//converts integer cordinates to string cordinates
 	String intCordToString(int x, int y){
-		String str = "" + (char)(x+64) + (char)(y+48);
+		char ch1= (char) ((char)x+64);
+		char ch2 = (char) ((char)y+48);
+		String str = "" + ch1 + ch2;
 		return str;
 	}
 
@@ -238,10 +240,8 @@ public class Piece {
 		int yCpy = y3;
 		xCpy += 1;
 		yCpy -= 1;
-		if( rep2 == "wB" || rep2 == "bB" ){
-			if( mvmnt == "upLeft"){  //check case for moving up left
-				xCpy += 1;
-				yCpy -= 1;			
+		if( rep2 == "wB" || rep2 == "bB" ){	
+			if( mvmnt == "upLeft"){  //check case for moving up left		
 				while( xCpy != x2 && yCpy > 0){ //loop through each diagonal space,between points,checking if a piece is there
 					tmp = brd.findPiece(intCordToString(xCpy,yCpy));
 					if( tmp != null ){
