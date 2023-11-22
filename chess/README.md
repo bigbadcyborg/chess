@@ -17,6 +17,12 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
+Team Name: Russell Sullivan (One Man Army)
+  Difficulties encountered:
+    -Initially, getting the pieces to move was difficult
+    -Adding castling
+    
+    
 
 PIECE RULES:
 Pawn:
