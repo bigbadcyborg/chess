@@ -1,7 +1,4 @@
 Team Name: Russell Sullivan (One Man Army) <br>
-  Difficulties encountered: <br>
-    -Initially, getting the pieces to move was difficult <br>
-    -Adding castling <br>
     
     
 
