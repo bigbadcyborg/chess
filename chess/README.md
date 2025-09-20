@@ -1,10 +1,12 @@
 Team Name: Russell Sullivan (One Man Army) <br>
+
+![../chess-screenshot.png]
     
     
 
 PIECE RULES:
 
-  Pawn:
+Pawn:
   
     -Can move 2 spaces forward only on its initial move (and if there is no piece in the way)
     -Can move 1 space forward after its initial move (and if there is no piece in the way)
