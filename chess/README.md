@@ -1,6 +1,6 @@
 Team Name: Russell Sullivan (One Man Army) <br>
 
-![screenie](../../chess-screenshot.png)
+![screenie](./../chess-screenshot.png)
     
     
 
