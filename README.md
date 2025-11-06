@@ -1,1 +1,1 @@
-(chess)[chess-screenshot.png]
+![chess-screenshot.png]
