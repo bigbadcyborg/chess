@@ -1,6 +1,6 @@
 # Chess Game
 
-A fully functional chess game implemented in Java with a graphical user interface using Java Swing. This project provides a complete chess experience with all standard chess rules, including special moves like castling and en passant.
+A fully functional chess game implemented in Java with a graphical user interface using Java Swing. This project provides a complete chess experience with all standard chess rules, including special moves like castling and en passant. Note that this project was completed **without** the use of A.I. (except for this README)
 
 ![Chess Game Screenshot](chess-screenshot.png)
 
